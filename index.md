@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to TFT Howler
 
-You can use the [editor on GitHub](https://github.com/pombolo/valoranthowlerpages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site will explain the functions of the Iphone App TFT Howler. You can see more information on it's [App Store page](https://apps.apple.com/ke/app/tft-howler/id1475359764).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TFT Howler is all about the League of Legends mode TeamFight Tactics. TFT Howler isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games
+or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are
+trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TFT Howler contains of 5 tabs
 
-```markdown
-Syntax highlighted code block
+1.Champions tab containing all information about each and every champions in TFT:
 
-# Header 1
-## Header 2
-### Header 3
+![Image of Champions](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/79/08/b9790812-1c9c-ec76-a683-1824e2d93ded/pr_source.png/230x0w.jpg)
 
-- Bulleted
-- List
+2.Tier List tab, which lists the current meta of champions, items, teamcompositions, traits:
+![Image of Tier List](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/21/c3/d621c38e-914f-4fec-77c9-678be304fb6d/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/c1/c2/6ec1c241-1529-ee4e-9592-be00ce4a443b/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/10/b9/ce10b950-4cf8-57d6-9311-7dce4ce98357/pr_source.png/230x0w.jpg)
 
-1. Numbered
-2. List
+3.The Item Builder, which will display all the creafting posibilities of the different items:
+![Image of Tier List](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/59/cc/ef/59ccef73-f331-fe1a-70b0-b227b8ac908c/pr_source.png/230x0w.jpg)
 
-**Bold** and _Italic_ and `Code` text
+4.The Team Builder will simulate a draft round and suggest you the champ and lists the bonus you would get when choosing said champion.
 
-[Link](url) and ![Image](src)
-```
+![Image of Tier List](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/5c/43/825c4344-7118-3720-225c-887e36c1005c/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/84/fd/7a/84fd7aef-688a-fa3b-3e04-c9c734335f86/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/94/09/5e94092d-cc97-f27b-ee2d-919da18ac11f/pr_source.png/230x0w.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5.Leaderboards will list the leaders of each tier/division. This is the only place where the riot api is used.
 
-### Jekyll Themes
+![Image of Tier List](http://lazyson.com/leaderboard.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pombolo/valoranthowlerpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+That's about it.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I would love to here some feedback from you. Feel free to contact me at [contact support](mailto:support@deckhowler.com).
