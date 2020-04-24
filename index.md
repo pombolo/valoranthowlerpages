@@ -12,7 +12,7 @@ For now Valorant Howler contains 3 tabs
 
 1.News tab containing all offical news about Valorant:
 
-![Image of Champions](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/79/08/b9790812-1c9c-ec76-a683-1824e2d93ded/pr_source.png/230x0w.jpg)
+![Image of Champions](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/f6/c7/dcf6c74f-0ef0-7ba4-92d2-67bddf32da51/pr_source.png/0x0ss-P3.jpg)
 
 2.Agents tab
 Here you can select all Agents of Valorant and display all their stats including a showcase video for each of their abilities
