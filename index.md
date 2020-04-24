@@ -12,17 +12,23 @@ For now Valorant Howler contains 3 tabs
 
 1.News tab containing all offical news about Valorant:
 
-![Image of Champions](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/f6/c7/dcf6c74f-0ef0-7ba4-92d2-67bddf32da51/pr_source.png/0x0ss-P3.jpg)
+![Image of News Tab](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/f6/c7/dcf6c74f-0ef0-7ba4-92d2-67bddf32da51/pr_source.png/0x0ss-P3.jpg)
 
 2.Agents tab
 Here you can select all Agents of Valorant and display all their stats including a showcase video for each of their abilities
+![Image of Agent Overview](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fd/7d/11/fd7d1146-90f2-d77d-54af-c5af709a4154/pr_source.png/0x0ss-P3.jpg)
+![Image of Agent Details](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/e9/a9/95e9a9e5-1d21-63f4-294a-4a2c17df9339/pr_source.png/0x0ss-P3.jpg)
+![Image of Agent Details2](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/5c/a2/a95ca2c7-20dd-0d25-45db-1324f9fe6319/pr_source.png/0x0ss-P3.jpg)
 
 3.Weapons tab
 Here you can select all weapons of Valorant and display all their stats including a showcase video for each of their fire modes
+![Image of Weapon Overview](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/03/02/8f030276-20b9-8ff7-a09c-97d527f0a657/pr_source.png/0x0ss-P3.jpg)
+![Image of Weapon Details](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/5b/83/2f5b8337-d69d-8861-8280-59aca454378d/pr_source.png/0x0ss-P3.jpg)
+
 
 
 When time (and Valorant Api) comes, it will make use of the API whatever it may offer.
-May it be Match detail, current skin rotation etc.
+May it be Match details, current skin rotation etc.
 
 That's about it.
 
