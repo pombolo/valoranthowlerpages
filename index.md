@@ -8,7 +8,7 @@ trademarks or registered trademarks of Riot Games, Inc. League of Legends © Rio
 
 ### Features
 
-For now Valorant Howler contains 3 tabs
+For now Valorant Howler contains 4 tabs
 
 1.News tab containing all offical news about Valorant:
 
@@ -25,7 +25,10 @@ Here you can select all weapons of Valorant and display all their stats includin
 ![Image of Weapon Overview](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/03/02/8f030276-20b9-8ff7-a09c-97d527f0a657/pr_source.png/0x0ss-P3.jpg)
 ![Image of Weapon Details](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/5b/83/2f5b8337-d69d-8861-8280-59aca454378d/pr_source.png/0x0ss-P3.jpg)
 
-
+4.Maps tab
+Here you can select the maps of Valorant and discover all its areas
+![Image of Map Overview](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/cb/aa/5ecbaa03-488d-5ddb-cd94-d30decd028ca/pr_source.png/0x0ss-P3.jpg)
+![Image of Map Details](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/3e/d0/f53ed0a9-e66b-7480-7f46-798b5acf3637/pr_source.png/0x0ss-P3.jpg)
 
 When time (and Valorant Api) comes, it will make use of the API whatever it may offer.
 May it be Match details, current skin rotation etc.
