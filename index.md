@@ -1,6 +1,6 @@
 ## Welcome to Valorant Howler
 
-This site will explain the functions of the Iphone App Valorant Howler. You can see more information on it's [App Store page](https://apps.apple.com/ke/app/tft-howler/id1475359764).
+This site will explain the functions of the Iphone App Valorant Howler. You can see more information on it's [App Store page](https://apps.apple.com/us/app/valorant-howler/id1509768576?ls=1).
 
 Valorant Howler is all about the game Valorant from Riot Games. Valorant Howler isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games
 or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are
@@ -21,9 +21,10 @@ Here you can select all Agents of Valorant and display all their stats including
 ![Image of Agent Details2](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/5c/a2/a95ca2c7-20dd-0d25-45db-1324f9fe6319/pr_source.png/0x0ss-P3.jpg)
 
 3.Weapons tab
-Here you can select all weapons of Valorant and display all their stats including a showcase video for each of their fire modes
+Here you can select all weapons of Valorant and display all their stats including a showcase video for each of their fire modes. It will also show all know Skins
 ![Image of Weapon Overview](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/03/02/8f030276-20b9-8ff7-a09c-97d527f0a657/pr_source.png/0x0ss-P3.jpg)
 ![Image of Weapon Details](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/5b/83/2f5b8337-d69d-8861-8280-59aca454378d/pr_source.png/0x0ss-P3.jpg)
+![Image of Weapon Skins](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/37/36/e0/3736e021-32a7-c112-8fde-8ab5a0a33bba/pr_source.png/0x0ss-P3.jpg)
 
 4.Maps tab
 Here you can select the maps of Valorant and discover all its areas
